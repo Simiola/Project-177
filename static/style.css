@@ -1,0 +1,21 @@
+body{
+    background-image: url('./assets/background.png');
+    font-family: "Pangolin", sans-serif;
+    font-size: large;
+
+    background-size: cover;
+}
+
+.display_inline{
+    display: inline;
+    padding: 0.5rem;
+}
+
+div{
+    margin: 20px 150px 10px 300px;
+    
+}
+.row-text-center{
+
+    color: rgb(10, 114, 97)
+}
